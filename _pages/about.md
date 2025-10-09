@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor, Department of Information Systems, Business Statistics and Operations Management (ISOM), The Hong Kong University of Science and Technology (HKUST)
 
 profile:
   align: right
@@ -27,8 +27,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Lucy Xia is an Assistant Professor in the Department of Information Systems, Business Statistics and Operations Management at the Hong Kong University of Science and Technology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Research Interests
+- High-dimensional Statistics  
+- Machine Learning  
+- Statistical Applications to Social Science and Biology  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Editorial Activities
+- Associate Editor, *Journal of the American Statistical Association: Reviews*, 2026–  
+- Associate Editor, *The American Statistician*, 2026–  
+
+### Selected Honors and Grants
+- Hong Kong RGC General Research Fund (PI, Aug 2025 – July 2028)  
+- Hong Kong RGC Collaborative Research Fund (co-PI, June 2025 – May 2028)  
+- Winner, Franklin Prize for Teaching Excellence, HKUST 2025  
+- Hong Kong RGC General Research Fund (co-PI, Jan 2022 – Dec 2024)  
+- The Hong Kong Laureate Forum (Young Scientist Participant, 2023)  
+- Hong Kong RGC Early Career Scheme Research Grant (PI, Jan 2021 – Dec 2023)  
+- Dean’s Recognition of Teaching Excellence, HKUST (2020–2023)  
+
+
+## Publications
+For a full list of publications, please visit her [Google Scholar profile](https://scholar.google.com/citations?user=KcoRj1sAAAAJ&hl=en).
