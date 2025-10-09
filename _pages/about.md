@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Lucy Xia is an Assistant Professor in the Department of Information Systems, Business Statistics and Operations Management at the Hong Kong University of Science and Technology.
-
 ### Research Interests
 - High-dimensional Statistics  
 - Machine Learning  
