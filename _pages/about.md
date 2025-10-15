@@ -9,7 +9,7 @@ profile:
   image: Lucy_Xia.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of ISOMr</p>
+    <p>Department of ISOM</p>
     <p>The Hong Kong University of Science and Technology, Clear Water Bay</p>
     <p>Hong Kong</p>
 
