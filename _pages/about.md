@@ -37,6 +37,7 @@ latest_posts:
 - Associate Editor, *The American Statistician*, 2026–  
 
 ### Selected Honors and Grants
+- Elected Member, International Statistical Institute (ISI), 2025
 - Hong Kong RGC General Research Fund (PI, Aug 2025 – July 2028)  
 - Hong Kong RGC Collaborative Research Fund (co-PI, June 2025 – May 2028)  
 - Winner, Franklin Prize for Teaching Excellence, HKUST 2025  
@@ -44,7 +45,6 @@ latest_posts:
 - The Hong Kong Laureate Forum (Young Scientist Participant, 2023)  
 - Hong Kong RGC Early Career Scheme Research Grant (PI, Jan 2021 – Dec 2023)  
 - Dean’s Recognition of Teaching Excellence, HKUST (2020–2023)  
-
 
 ## Publications
 For a full list of publications, please visit her [Google Scholar profile](https://scholar.google.com/citations?user=KcoRj1sAAAAJ&hl=en).
