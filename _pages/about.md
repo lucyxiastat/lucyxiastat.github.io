@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, Department of Information Systems, Business Statistics and Operations Management (ISOM), The Hong Kong University of Science and Technology (HKUST)
+subtitle: Associate Professor, Department of Information Systems, Business Statistics and Operations Management (ISOM), The Hong Kong University of Science and Technology (HKUST)
 
 profile:
   align: right
-  image: Lucy_Xia.jpg
+  image: Lucy_Profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of ISOM</p>
@@ -30,14 +30,17 @@ latest_posts:
 ### Research Interests
 - High-dimensional Statistics  
 - Machine Learning  
+- Experimental Design
 - Statistical Applications to Social Science and Biology  
 
 ### Editorial Activities
+- Associate Editor, *Journal of the Royal Statistical Society, Series B*, 2026–
 - Associate Editor, *Journal of the American Statistical Association: Reviews*, 2026–  
 - Associate Editor, *The American Statistician*, 2026–  
 
 ### Selected Honors and Grants
 - Elected Member, International Statistical Institute (ISI), 2025
+- Hong Kong RGC General Research Fund (PI, Aug 2026 – July 2029)
 - Hong Kong RGC General Research Fund (PI, Aug 2025 – July 2028)  
 - Hong Kong RGC Collaborative Research Fund (co-PI, June 2025 – May 2028)  
 - Winner, Franklin Prize for Teaching Excellence, HKUST 2025  
