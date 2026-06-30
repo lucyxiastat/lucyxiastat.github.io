@@ -808,6 +808,14 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
+        a.labeled-publication-link {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.4rem;
+          width: auto;
+          min-width: 4.75rem;
+          justify-content: center;
+        }
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
