@@ -9,20 +9,24 @@ nav_order: 3
 
 I am fortunate to work with students on statistical methods, machine learning, and applications in social science and biology.
 
-## PhD Students
+## Current Students
 
-<!--
-- Student Name, PhD student
-  - Research interests:
-  - Co-advised with:
-  - Website:
--->
+- Ziqing Guo (Ph.D. 2021-)
+  - Research interests: Classification and Experimental Design.
+
+- Chun Hui (Ph.D. 2021-)
+  - Research interests: Classification in finance.
+
+- Lingchong Liu (Ph.D. 2022-)
+  - Research interests: Tensor classification and Transfer Learning.
+
+- Yizheng Wang (Ph.D. 2023-)
+  - Research interests: Federated learning.
+
+- Kun Yi (Ph.D. 2024-)
+  - Research interests: Transfer Learning and Experimental design.
 
 ## Alumni
 
-<!--
-- Student Name, degree or position
-  - Thesis/topic:
-  - Current position:
-  - Website:
--->
+- Minghong Yuan (M.S. in Business Analytics 2022)
+  - First position: Ph.D. in Information Systems at the McCombs School of Business, University of Texas at Austin.
