@@ -201,7 +201,7 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
-      <a class="bibtex btn btn-sm z-depth-0" role="button" title="Show BibTeX" aria-label="Show BibTeX"><i class="fa-solid fa-quote-right"></i></a>
+      <a class="bibtex btn btn-sm z-depth-0" role="button" title="Show BibTeX" aria-label="Show BibTeX"><i class="fa-solid fa-quote-right"></i> cite</a>
       {% assign article_url = null %}
       {% if entry.url %}
         {% assign article_url = entry.url %}
@@ -215,7 +215,7 @@
         {% assign article_url = entry.website %}
       {% endif %}
       {% if article_url %}
-        <a href="{{ article_url }}" class="btn btn-sm z-depth-0" role="button" title="Article website" aria-label="Article website"><i class="fa-solid fa-up-right-from-square"></i></a>
+        <a href="{{ article_url }}" class="btn btn-sm z-depth-0" role="button" title="Article website" aria-label="Article website"><i class="fa-solid fa-up-right-from-square"></i> link</a>
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
