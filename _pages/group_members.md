@@ -12,21 +12,24 @@ I am fortunate to work with students on statistical methods, machine learning, a
 ## Current Students
 
 - Ziqing Guo (Ph.D. 2021-)
-  - Research interests: Classification and Experimental Design.
+  - Focus: Classification and Experimental Design.
 
 - Chun Hui (Ph.D. 2021-)
-  - Research interests: Classification in finance.
+  - Focus: Classification in finance.
 
 - Lingchong Liu (Ph.D. 2022-)
-  - Research interests: Tensor classification and Transfer Learning.
+  - Focus: Tensor classification and Transfer Learning.
 
 - Yizheng Wang (Ph.D. 2023-)
-  - Research interests: Federated learning.
+  - Focus: Federated learning.
 
 - Kun Yi (Ph.D. 2024-)
-  - Research interests: Transfer Learning and Experimental design.
+  - Focus: Transfer Learning and Experimental design.
 
 ## Alumni
 
-- Minghong Yuan (M.S. in Business Analytics 2022)
+- [Minghong Yuan](https://myuanaf.github.io/) (M.S. in Business Analytics, HKUST 2022)
   - First position: Ph.D. in Information Systems at the McCombs School of Business, University of Texas at Austin.
+
+- Yuheng Lai (B.S. in Statistics, Renmin University of China 2024)
+  - First position: Ph.D. in Statistics, University of Wisconsin-Madison.
