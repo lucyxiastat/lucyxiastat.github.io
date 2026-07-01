@@ -14,7 +14,7 @@ I am fortunate to work with students on statistical methods, machine learning, a
 - Ziqing Guo (Ph.D. 2021-)
   - Focus: Classification and Experimental Design.
 
-- Chun Hui (Ph.D. 2021-)
+- Chun Hui (Ph.D. 2021-, co-advised with [Yingying Li](https://yyli.finstar.hk/))
   - Focus: Classification in finance.
 
 - Lingchong Liu (Ph.D. 2022-)
