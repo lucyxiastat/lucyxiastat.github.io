@@ -47,4 +47,4 @@ latest_posts:
 - Hong Kong RGC General Research Fund (co-PI, Jan 2022 – Dec 2024)  
 - The Hong Kong Laureate Forum (Young Scientist Participant, 2023)  
 - Hong Kong RGC Early Career Scheme Research Grant (PI, Jan 2021 – Dec 2023)  
-- Dean’s Recognition of Teaching Excellence, HKUST (2020–2023)  
+- Dean’s Recognition of Teaching Excellence, HKUST (2020–2026)  
