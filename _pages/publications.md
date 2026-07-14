@@ -2,7 +2,9 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: publications by categories in reversed chronological order. For a full list of publications, please visit her [Google Scholar profile](https://scholar.google.com/citations?user=KcoRj1sAAAAJ&hl=en).
+description: >-
+  publications by categories in reversed chronological order. For a full list of publications, please visit her [Google Scholar profile](https://scholar.google.com/citations?user=KcoRj1sAAAAJ&hl=en).<br>
+  Current and former students from the group are in **bold**; <u>Author</u> indicates corresponding author(s).
 nav: true
 nav_order: 2
 ---
@@ -10,8 +12,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-
-**Current and former students are shown in bold.** <u>Underlined names</u> indicate corresponding author(s).
 
 {% include bib_search.liquid %}
 
