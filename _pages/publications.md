@@ -11,6 +11,8 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+**Current and former students are shown in bold.** <u>Underlined names</u> indicate corresponding author(s).
+
 {% include bib_search.liquid %}
 
 <div class="publications">
