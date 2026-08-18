@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor, Department of Information Systems, Business Statistics and Operations Management (ISOM), The Hong Kong University of Science and Technology (HKUST)
 
 profile:
   align: right
