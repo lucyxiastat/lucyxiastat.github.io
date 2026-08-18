@@ -27,11 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### Research Interests
-- High-dimensional Statistics  
-- Machine Learning  
-- Experimental Design
-- Statistical Applications to Social Science and Biology  
+I am an Associate Professor in the Department of Information Systems, Business Statistics and Operations Management at HKUST. My research focuses on high-dimensional statistics, machine learning, and experimental design, with applications in the social and biological sciences. I received my B.A. in Mathematics from the University of Virginia in 2010 and my Ph.D. from Princeton University's Department of Operations Research and Financial Engineering in 2015. Following my doctoral studies, I was a Stein Fellow in the Department of Statistics at Stanford University from 2015 to 2019.
 
 ### Editorial Activities
 - Associate Editor, *Journal of the Royal Statistical Society, Series B*, 2026–
